@@ -1,0 +1,5 @@
+google-adk
+chromadb
+sentence-transformers
+ollama
+groq
