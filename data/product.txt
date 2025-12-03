@@ -1,0 +1,113 @@
+--- Fish ---
+Salmon Fillet - $12.50
+Features: Fresh Atlantic salmon fillet.
+
+Tuna Steak - $15.00
+Features: Lean and meaty tuna steak.
+
+Cod Loin - $10.25
+Features: Flaky wild-caught cod loin.
+
+Shrimp Pack - $8.75
+Features: Easy-peel premium shrimps.
+
+Sea Bass - $18.40
+Features: Delicate and mild sea bass.
+
+Scallops - $22.30
+Features: Sweet jumbo sea scallops.
+
+--- Fruits ---
+Apples (6-pack) - $3.60
+Features: Crisp and sweet red apples.
+
+Bananas (1kg) - $2.40
+Features: Perfectly ripe, great for smoothies.
+
+Oranges (6-pack) - $3.90
+Features: Juicy and full of vitamin C.
+
+Grapes (500g) - $3.20
+Features: Seedless and refreshing.
+
+Strawberries (250g) - $4.10
+Features: Sweet and fragrant berries.
+
+Mango (each) - $2.20
+Features: Tropical and delicious.
+
+--- Gold ---
+Infinity Necklace - $2350.00
+Features: Endless elegance, crafted for forever.
+
+Hoop Earrings - $760.00
+Features: Your everyday luxury.
+
+Bracelet - $2375.00
+Features: Unique, elegant, unforgettable.
+
+Coin Pendant - $1205.00
+Features: Symbol of prosperity and protection.
+
+Rainbow Ring - $450.00
+Features: Layer your glow.
+
+Pocket Watch - $1520.00
+Features: Limited stock—hand-finished for extraordinary detail.
+
+--- Meat ---
+Ribeye Steak - $14.50
+Features: Juicy, marbled ribeye cut.
+
+Chicken Breast - $6.90
+Features: Lean, skinless chicken breast.
+
+Pork Chops - $7.80
+Features: Tender bone-in pork chops.
+
+Lamb Chops - $16.20
+Features: Premium, delicate lamb chops.
+
+Ground Beef - $5.40
+Features: 80/20 ground beef blend.
+
+Turkey Slices - $4.60
+Features: Thin-sliced roasted turkey.
+
+--- Sweets ---
+Chocolate Truffles - $6.50
+Features: Rich cocoa truffles with ganache.
+
+Vanilla Cupcakes - $4.20
+Features: Fluffy cupcakes with vanilla frosting.
+
+Caramel Toffee - $3.75
+Features: Buttery, chewy caramel bites.
+
+Macarons Assortment - $9.90
+Features: Colorful almond meringue cookies.
+
+Gummy Bears - $2.80
+Features: Classic fruit-flavored gummies.
+
+Dark Chocolate Bar - $3.50
+Features: 70% cocoa premium bar.
+
+--- Wine ---
+Red Wine (750 ml) - $12.99
+Features: Full-bodied and rich red wine.
+
+White Wine (750 ml) - $11.50
+Features: Crisp and refreshing white wine.
+
+Rosé Wine (750 ml) - $13.75
+Features: Light, fruity rosé perfect for summer.
+
+Sparkling Wine (750 ml) - $18.20
+Features: Bubbly and celebratory sparkling wine.
+
+Dessert Wine (500 ml) - $9.40
+Features: Sweet finish — great for desserts.
+
+Port Wine (500 ml) - $15.30
+Features: Rich and fortified port wine.

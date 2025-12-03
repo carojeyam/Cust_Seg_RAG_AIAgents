@@ -1,0 +1,26 @@
+--- Balanced Value Shoppers ---
+Description: Customers who seek good value and are activated by introductory offers and flexible bundles.
+Promotions:
+- Entry-price packs
+- First-purchase discounts online
+- Entry-price bundles
+- Mix & match packs
+- Threshold free shipping (e.g., 'Free delivery over $50')
+
+--- Digital Wine Enthusiasts ---
+Description: Customers with high web engagement who respond to targeted online offers and subscriptions.
+Promotions:
+- Targeted web coupons
+- Bundles
+- Time-limited promos
+- Web-only drops
+- Loyalty multipliers
+- Subscriptions/auto-ship for wine
+
+--- Price-Conscious Wine Buyers ---
+Description: Price-sensitive customers with low web engagement who respond to multi-bottle savings and free delivery.
+Promotions:
+- Value multi-bottle packs
+- Buy more, save more offers
+- First-purchase discount
+- Free delivery windows
